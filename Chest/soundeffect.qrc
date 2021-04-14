@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/soundeffect">
+        <file>soundeffect/pieceDown.wav</file>
+        <file>soundeffect/pieceUp.wav</file>
+        <file>soundeffect/countdown.wav</file>
+    </qresource>
+</RCC>
